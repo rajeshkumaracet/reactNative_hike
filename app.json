@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "Emplyoee Search Application",
+    "slug": "employee",
+    "privacy": "public",
+    "sdkVersion": "35.0.0",
+    "ios": {
+      "bundleIdentifier": "adappt.hikeSalary.redux"
+    },
+    "platforms": ["ios"],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"]
+  }
+}
